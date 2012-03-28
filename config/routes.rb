@@ -1,4 +1,14 @@
 TutonicOdeskTest::Application.routes.draw do
+  get "pages/home"
+
+  get "pages/help"
+
+  get "pages/about"
+
+  get "pages/privacy"
+
+  get "pages/contact"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
