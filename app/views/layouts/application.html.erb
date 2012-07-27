@@ -10,23 +10,11 @@
   </head>
   <body>
     <section id="wrapper">
-      <header id="header">
-        <div id="logo"><%=link_to (image_tag "logo.png", :alt => "Tutonic Logo"), home_path%></div>
-        <nav id="main_nav">
-          <ul class="nav">
-            <li><%= link_to "About", "#" %></li>
-            <li><%= link_to "The Process", "#" %></li>
-            <li><%= link_to "Login", home_path %></li>
-            <li class="signup"><%= link_to "Sign Up", signup_path %></li>
-          </ul>
-        </nav>
-      </header>
+      <%=render "/shared/header"%>
       <div id="content">
         <%=yield%>
       </div>
-      <footer id="footer">
-        <div>&copy; Tutonic LLC</div>
-      </footer>
+      <%=render "/shared/footer"%>
     </section>
   </body>
 </html>
