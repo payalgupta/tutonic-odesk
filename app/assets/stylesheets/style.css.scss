@@ -1,0 +1,255 @@
+@font-face {
+  font-family: 'Calibri';
+  src: asset-url('calibri_0.eot', font);
+  src: asset-url('calibri_0.eot?#iefix', font) format('embedded-opentype'),
+       asset-url('calibri_0.woff', font) format('woff'),
+       asset-url('calibri_0.ttf', font) format('truetype'),
+       asset-url('calibri_0.svg#calibri_0', font) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rockwell';
+  src: asset-url('rock.eot', font);
+  src: asset-url('rock.eot?#iefix', font) format('embedded-opentype'),
+       asset-url('rock.woff', font) format('woff'),
+       asset-url('rock.ttf', font) format('truetype'),
+       asset-url('rock.svg#rock', font) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Rockwell';
+}
+
+a {
+  text-decoration: none;
+}
+
+#wrapper {
+  min-height: 800px;
+  background: asset-url("bkg.jpg", image);
+  #header {
+    width: 758px;
+    padding: 34px 0 0;
+    margin: 0 auto;
+    overflow: hidden;
+    #logo {
+      float: left;
+    }
+    #main_nav {
+      width: 352px;
+      float: right;
+      ul {
+        margin-top: 2px;
+        overflow: hidden;
+        li {
+          float: left;
+          a {
+            float: left;
+            color: #575757;
+            font-size: 12px;
+            margin: 14px 0 0 30px;
+          }
+          a:hover {
+            color: #000000;
+          }
+          &:first-child {
+            margin-left: 0;
+          }
+        }
+        li.signup {
+          margin-left: 26px;
+          background: asset-url("pencilIcon-sm.png", image) no-repeat top left;
+          a {
+            font-size: 14px;
+            color: #a2bbc5;
+            padding: 0 0 15px;
+          }
+          a:hover {
+            color: #81969e;
+          }
+        }
+      }
+    }
+  }
+  #content {
+    width: 758px;
+    text-align: center;
+    margin: 0 auto 50px;
+    h1 {
+      color: #a2bbc5 ;
+      font-size: 35px;
+      font-weight: normal;
+    }
+    .credentialBlk {
+      margin-top: 143px;
+      .note {
+        color: #000000;
+        font-size: 13px;
+        margin: 10px 0;
+      }
+      .fbConnect {
+        margin: 15px;
+        color: #575757;
+        .orLink {
+          margin-top: -10px;
+        }
+      }
+      .createAccLnk {
+        color: #a2bbc5;
+        font-size: 12px;
+      }
+      .holder {
+        position: relative;
+        width: 407px;
+        margin: 20px auto;
+      }
+      .greyOutline {
+        height: 62px;
+        border-top: 5px solid #dde2e2;
+        border-left: 5px solid #dde2e2;
+      }
+      .blueBkg {
+        top: 5px;
+        left: 5px;
+        width: 402px;
+        margin: 0 auto;
+        position: absolute;
+        overflow: hidden;
+        color: #575757;
+        font-size: 14px;
+        padding: 12px 0;
+        background-color: #cad6d9;
+        border-bottom: 5px solid #dde2e2;
+        border-right: 5px solid #dde2e2;
+        label.label {
+          float: left;
+          padding: 10px 30px;
+        }
+        .loginBtn {
+          float: right;
+          color: #ffffff;
+          font-size: 18px;
+          background-color: #beced3;
+          span {
+            float: left;
+            padding: 10px 30px;
+            background: asset-url("digBkg.png", image);
+          }
+        }
+      }
+    }
+    .form {
+      input[type="text"], input[type="password"] {
+        width: 259px;
+        padding: 7px;
+        margin: 7px 0;
+        font-size: 13px;
+        font-style: italic;
+        border-radius: 4px;
+        border: 1px solid #737778;
+        -moz-box-shadow: inset 1px 1px 5px #D1D1D1;
+        -webkit-box-shadow: inset 1px 1px 5px #D1D1D1;
+        box-shadow: inset 1px 1px 5px #D1D1D1;
+      }
+      input[type="checkbox"] {
+        margin: -5px 0 0 0;
+      }
+      a {
+        color: #575757;
+        text-decoration: underline;
+      }
+      .links {
+        padding: 3px 0;
+        font-family: "Calibri";
+      }
+      .actions, .links {
+        overflow: hidden;
+        margin: 10px 0 0 0;
+        text-align: left;
+        a {
+          margin: 0 0 0 5px;
+          font-weight: normal;
+        }
+        label {
+          padding: 0 5px;
+          float: right;
+          font-size: 12px;
+          margin: 23px 20px 0 0;
+          font-family: "Calibri";
+        }
+        .button {
+          color: #ffffff;
+          font-size: 18px;
+          background-color: #beced3;
+          input[type="submit"] {
+            float: left;
+            border: none;
+            color: #ffffff;
+            font-size: 18px;
+            padding: 5px 20px;
+            font-family: "Rockwell";
+            background: asset-url("digBkg.png", image);
+          }
+        }
+      }
+    }
+    #login {
+      .holder {
+        width: 324px;
+      }
+      .greyOutline {
+        height: 186px;
+        border-top: 10px solid #dde2e2;
+        border-left: 10px solid #dde2e2;
+      }
+      .blueBkg {
+        width: 319px;
+      }
+      .fbConnect {
+        margin: 0 0 15px;
+        a.fb {
+          width: 409px;
+          height: 77px;
+          margin: 0 auto;
+          display: block;
+          text-indent: -9999px;
+          background: asset-url("fb-BttnLg.png", image) no-repeat center center;
+        }
+        .orLink {
+          margin-top: -20px;
+        }
+      }
+    }
+    #signup {
+      .fbConnect {
+        position: relative;
+        span {
+          top: 40px;
+          left: 220px;
+          font-size: 12px;
+          position: absolute;
+        }
+        a.fb {
+          width: 409px;
+          height: 77px;
+          margin: 0 auto;
+          display: block;
+          text-indent: -9999px;
+          background: asset-url("fbBttn.png", image) no-repeat center center;
+        }
+      }
+    }
+  }
+  #footer {
+    width: 758px;
+    color: #575757;
+    margin: 0 auto;
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Calibri';
+  }
+}

@@ -1,2 +1,39 @@
-<h1>Pages#home</h1>
-<p>Find me in app/views/pages/home.html.erb</p>
+<div id="login" class="credentialBlk">
+  <h1>
+    Login to Tutonic
+    <p class="note">A site dedicated to finding you the best tutors.</p>
+  </h1>
+  <div>
+    <%=link_to (image_tag "learnMore.png", :alt => "Learn More"), "#"%>
+  </div>
+  <div class="fbConnect">
+    <%=link_to "Facebook", "#", :class=>"fb"%>
+    <p class="orLink">OR</p>
+  </div>
+  <div class="holder">
+    <div class="greyOutline">&nbsp;</div>
+    <div class="blueBkg">
+      <div class="loginSection form">
+        <%= form_for(@user) do |f| %>
+          <div class="field">
+            <%= f.text_field :email, :placeholder => "Email address" %>
+          </div>
+          <div class="field">
+            <%= password_field_tag :user, :password, :placeholder => "Password" %>
+          </div>
+          <div class="actions">
+            <div class="button"><%= f.submit "Login Now!" %></div>
+            <label for="remember_me">
+              <%= check_box_tag :remember_me%>
+              Remember me next time
+            </label>
+          </div>
+          <div class="actions links">
+            <%=link_to "Forgot Password?", "#"%>
+            <%=link_to "Need an Account?", "#"%>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>
