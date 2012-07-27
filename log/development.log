@@ -29675,3 +29675,1060 @@ Served asset /digBkg.png - 304 Not Modified (0ms)
 
 Started GET "/assets/calibri_0.woff" for 127.0.0.1 at 2012-07-27 16:51:56 +0530
 Served asset /calibri_0.woff - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:53:50 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 108ms (Views: 31.7ms | ActiveRecord: 3.8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /jquery.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /pages.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /reset.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /users.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /style.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /learnMore.png - 304 Not Modified (3ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /logo.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bkg.jpg" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /bkg.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/pencilIcon-sm.png" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /pencilIcon-sm.png - 304 Not Modified (3ms)
+
+
+Started GET "/assets/fb-BttnLg.png" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /fb-BttnLg.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/digBkg.png" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /digBkg.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/rock.woff" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /rock.woff - 304 Not Modified (1ms)
+
+
+Started GET "/assets/calibri_0.woff" for 127.0.0.1 at 2012-07-27 16:53:51 +0530
+Served asset /calibri_0.woff - 304 Not Modified (1ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /style.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /learnMore.png - 200 OK (0ms)
+
+
+Started GET "/assets/bkg.jpg" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /bkg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fb-BttnLg.png" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /fb-BttnLg.png - 200 OK (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:53:55 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pencilIcon-sm.png" for 127.0.0.1 at 2012-07-27 16:53:56 +0530
+Served asset /pencilIcon-sm.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/digBkg.png" for 127.0.0.1 at 2012-07-27 16:53:56 +0530
+Served asset /digBkg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rock.woff" for 127.0.0.1 at 2012-07-27 16:53:56 +0530
+Served asset /rock.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/calibri_0.woff" for 127.0.0.1 at 2012-07-27 16:53:56 +0530
+Served asset /calibri_0.woff - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:54:06 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:06 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:06 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:06 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:06 +0530
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:06 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:06 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:54:06 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-07-27 16:54:07 +0530
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:07 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:07 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:07 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:08 +0530
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:08 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:08 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:54:08 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pencilIcon-lg.png" for 127.0.0.1 at 2012-07-27 16:54:08 +0530
+Served asset /pencilIcon-lg.png - 304 Not Modified (2ms)
+
+
+Started GET "/assets/digBkg.png" for 127.0.0.1 at 2012-07-27 16:54:08 +0530
+Served asset /digBkg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fbBttn.png" for 127.0.0.1 at 2012-07-27 16:54:08 +0530
+Served asset /fbBttn.png - 304 Not Modified (1ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:54:09 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 38ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:09 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:09 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:09 +0530
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:09 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:09 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:09 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:54:09 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:54:35 +0530
+Served asset /learnMore.png - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:54:44 +0530
+Served asset /learnMore.png - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pencilIcon-lg.png" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Served asset /pencilIcon-lg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:54:45 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 37ms (Views: 36.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:54:47 +0530
+Served asset /learnMore.png - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /learnMore.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bkg.jpg" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /bkg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fb-BttnLg.png" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /fb-BttnLg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/digBkg.png" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /digBkg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pencilIcon-sm.png" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /pencilIcon-sm.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rock.woff" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /rock.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/calibri_0.woff" for 127.0.0.1 at 2012-07-27 16:54:54 +0530
+Served asset /calibri_0.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rock.woff" for 127.0.0.1 at 2012-07-27 16:55:06 +0530
+Served asset /rock.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/calibri_0.woff" for 127.0.0.1 at 2012-07-27 16:55:06 +0530
+Served asset /calibri_0.woff - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Compiled style.css  (82ms)  (pid 19815)
+Completed 200 OK in 97ms (Views: 97.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /style.css - 200 OK (12ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bkg.jpg" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /bkg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /learnMore.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pencilIcon-sm.png" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /pencilIcon-sm.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fb-BttnLg.png" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /fb-BttnLg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/digBkg.png" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /digBkg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rock.woff" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /rock.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/calibri_0.woff" for 127.0.0.1 at 2012-07-27 16:55:24 +0530
+Served asset /calibri_0.woff - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /style.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /logo.png - 200 OK (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /learnMore.png - 200 OK (0ms)
+
+
+Started GET "/assets/bkg.jpg" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /bkg.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/pencilIcon-sm.png" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /pencilIcon-sm.png - 200 OK (0ms)
+
+
+Started GET "/assets/rock.woff" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /rock.woff - 200 OK (0ms)
+
+
+Started GET "/assets/fb-BttnLg.png" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /fb-BttnLg.png - 200 OK (0ms)
+
+
+Started GET "/assets/calibri_0.woff" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /calibri_0.woff - 200 OK (0ms)
+
+
+Started GET "/assets/digBkg.png" for 127.0.0.1 at 2012-07-27 16:55:28 +0530
+Served asset /digBkg.png - 200 OK (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (31.8ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:55:35 +0530
+Served asset /learnMore.png - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 31ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pencilIcon-lg.png" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /pencilIcon-lg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/digBkg.png" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /digBkg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fbBttn.png" for 127.0.0.1 at 2012-07-27 16:55:37 +0530
+Served asset /fbBttn.png - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Served asset /learnMore.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:40 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pencilIcon-lg.png" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Served asset /pencilIcon-lg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:42 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Served asset /learnMore.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:43 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pencilIcon-lg.png" for 127.0.0.1 at 2012-07-27 16:55:44 +0530
+Served asset /pencilIcon-lg.png - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Served asset /learnMore.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:45 +0530
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /style.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/rock.woff" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /rock.woff - 200 OK (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /logo.png - 200 OK (0ms)
+
+
+Started GET "/assets/calibri_0.woff" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /calibri_0.woff - 200 OK (0ms)
+
+
+Started GET "/assets/bkg.jpg" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /bkg.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/learnMore.png" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /learnMore.png - 200 OK (0ms)
+
+
+Started GET "/assets/pencilIcon-sm.png" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /pencilIcon-sm.png - 200 OK (0ms)
+
+
+Started GET "/assets/fb-BttnLg.png" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /fb-BttnLg.png - 200 OK (0ms)
+
+
+Started GET "/assets/digBkg.png" for 127.0.0.1 at 2012-07-27 16:55:58 +0530
+Served asset /digBkg.png - 200 OK (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:56:02 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:56:02 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:56:05 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:56:05 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-07-27 16:56:06 +0530
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:56:06 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pencilIcon-lg.png" for 127.0.0.1 at 2012-07-27 16:56:06 +0530
+Served asset /pencilIcon-lg.png - 200 OK (0ms)
+
+
+Started GET "/assets/fbBttn.png" for 127.0.0.1 at 2012-07-27 16:56:06 +0530
+Served asset /fbBttn.png - 200 OK (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:56:08 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:56:08 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-07-27 16:56:09 +0530
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:56:09 +0530
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-07-27 16:56:13 +0530
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2012-07-27 16:56:13 +0530
+Served asset /style.css - 304 Not Modified (0ms)
